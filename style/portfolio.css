@@ -24,6 +24,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin:0 200px;
 }
 nav > ul{
 display: flex;
@@ -48,4 +49,16 @@ font-size: 45px;
 
 font-weight: 800;
 
+}
+.header{
+    background-color: antiquewhite;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+
+}
+.banner .pro-pic{
+    width: 500px;
 }
